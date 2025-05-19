@@ -1,0 +1,6 @@
+Summary for chat1.txt:
+- Total exchanges: 4
+- User messages: 2
+- AI messages: 2
+- Main topic: discussion about use, python
+- Top keywords: use, python, hi, tell, analysis
